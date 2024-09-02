@@ -1,0 +1,6 @@
+car-tires = 2.75
+uncease = 1.5
+cease = 3.25
+tsarevna = 3.6
+4149 = 4
+demilune = 1.75 ~ 7

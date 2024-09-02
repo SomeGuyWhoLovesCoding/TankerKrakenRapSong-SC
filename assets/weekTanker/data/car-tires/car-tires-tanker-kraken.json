@@ -1,0 +1,17 @@
+{
+	"song": {
+		"player1": "tanker",
+		"events": [],
+		"gfVersion": "gf",
+		"notes": [],
+		"player2": "bf-remix",
+		"player3": "cop-1",
+		"player4": "cop-2",
+		"song": "Car Tires",
+		"stage": "stage",
+		"needsVoices": true,
+		"validScore": true,
+		"bpm": 145,
+		"speed": 2.75
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-thecoolcontest.png">
+	<SubTexture name="icon20000" x="0" y="98" width="142" height="97" frameX="-5" frameY="-28" frameWidth="150" frameHeight="150" />
+	<SubTexture name="icon20001" x="0" y="0" width="143" height="98" frameX="-5" frameY="-29" frameWidth="150" frameHeight="150" />
+	<SubTexture name="icon20002" x="143" y="0" width="142" height="98" frameX="-5" frameY="-31" frameWidth="150" frameHeight="150" />
+	<SubTexture name="icon20003" x="142" y="98" width="139" height="97" frameX="-7" frameY="-31" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Car Tires", "tanker", [165, 0, 77]],
+		["Uncease", "tanker", [165, 0, 77]],
+		["Ceased", "tanker-and-cops", [165, 0, 77]],
+		["Diazepam", "tanker", [165, 0, 77]],
+		["Stadium Rave", "tanker", [165, 0, 77]],
+		["Challenge", "tanker-insane", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}

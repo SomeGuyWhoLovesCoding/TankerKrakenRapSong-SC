@@ -1,0 +1,1 @@
+NOTE: Your dialogue portrait must be face right !
